@@ -6,8 +6,7 @@ navigation: True
 title: First presentation video
 date: 2017.12.17
 class: post-template
-subclass: 'post tag-fables'
-logo: assets/images/heart.png
+logo: https://jiyum.github.io/heart.png
 author: jiyun
 First presentation video
 ---
