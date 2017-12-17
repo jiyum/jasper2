@@ -5,9 +5,7 @@ cover: https://jiyum.github.io/note.jpg
 navigation: True
 title: 팀별 활동 보고서
 date: 2017.12.17
-tags: speeches
 class: post-template
-subclass: 'post tag-speeches'
 author: jiyun
 팀별 활동 보고서
 ---
