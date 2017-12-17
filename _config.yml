@@ -8,12 +8,12 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: JIYUN'S OPENSOFTWARE
-description: The professional publishing platform
+title: JIYUN'S OSSW
+description: Blog for OPENSOURCE SOFTWARE
 cover: https://jiyum.github.io/blog-cover.jpg
 logo: https://jiyum.github.io/heart.png
 logo_dark: https://jiyum.github.io/heart.png
-favicon: https://jiyum.github.io/eart.png
+favicon: https://jiyum.github.io/heart.png
 production_url: https://myJekyll.github.io/jasper2/
 source_url: https://github.com/myJekyll/jasper2/
 
