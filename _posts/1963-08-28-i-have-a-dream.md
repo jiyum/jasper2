@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/note.jpg
+cover: https://jiyum.github.io/note.jpg
 navigation: True
 title: 팀별 활동 보고서
 date: 2017.12.17
