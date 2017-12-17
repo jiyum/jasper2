@@ -1,13 +1,11 @@
 ---
 layout: post
 current: post
-cover: https://jiyum.github.io/presentation.jpg
+cover: 'https://jiyum.github.io/presentation.jpg'
 navigation: True
 title: Final presentation Video
-date: 1948-12-12 10:18:00
-tags: speeches
+date: 2017.12.17
 class: post-template
-subclass: 'post tag-speeches'
 author:jiyun
 Final Presentation Video
 ---
