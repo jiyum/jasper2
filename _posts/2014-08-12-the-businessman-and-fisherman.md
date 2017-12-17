@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: https://jiyum.github.io/video1.jpg
+cover: https://jiyum.github.io/video1.png
 navigation: True
 title: First presentation video
 date: 2017.12.17
